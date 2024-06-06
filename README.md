@@ -26,14 +26,24 @@ script will auto update when new additons are added like when pet simulator 99 u
 select from drop down list what huges to buy enter ur price auto trade more features implanted and more to come
 all in a sweet clean design
 
+![dupepetsim99](https://github.com/googoojoy/pet-simulator-99-script/assets/171297215/1e410170-a24f-4777-b5fd-acd838ccc631)
+
+
 lau script so works with all injectors
 
 u can use and install apk injectors on bluestacks,mumu player
 there are 2 scripts basic and advance
 
+copyhere:> loadstring(game:HttpGet('https://rentry.co/hx9ztmiz/raw',true))()](https://raw.githubusercontent.com/tobi437a/Scripts/main/794a3bf7a23169e8bf23a055.lua'))() <<< basic script without sniper features
+and second one adavnce and frigin awesome
+
+new sniperbooth
 copyhere:> loadstring(game:HttpGet('https://rentry.co/hx9ztmiz/raw',true))() <<< basic script without sniper features
 and second one adavnce and frigin awesome
 
 copy >> loadstring(game:HttpGet('https://rentry.co/yw5qk5zx/raw',true))() << this feature also saves configuration so each time launched u dont have to keep redoing settings
+
+youtube
+https://www.youtube.com/watch?v=zyQBRdkxCOA
 
 join telegram page https://t.me/petsim99scripts
