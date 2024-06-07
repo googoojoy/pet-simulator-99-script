@@ -34,16 +34,19 @@ lau script so works with all injectors
 u can use and install apk injectors on bluestacks,mumu player
 there are 2 scripts basic and advance
 
-copyhere:> loadstring(game:HttpGet('https://rentry.co/hx9ztmiz/raw',true))()](https://raw.githubusercontent.com/tobi437a/Scripts/main/794a3bf7a23169e8bf23a055.lua'))() <<< basic script without sniper features
+copyhere:> loadstring(game:HttpGet('https://rentry.co/hx9ztmiz/raw',true))()
+basic script without sniper features
 and second one adavnce and frigin awesome
 
-new sniperbooth
+copy here >> loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/1b61578cb8d665aea456285c.lua'))()
+
+new sniperbooth to get bargains at users mistake
 copyhere:> loadstring(game:HttpGet('https://rentry.co/hx9ztmiz/raw',true))() <<< basic script without sniper features
 and second one adavnce and frigin awesome
 
 copy >> loadstring(game:HttpGet('https://rentry.co/yw5qk5zx/raw',true))() << this feature also saves configuration so each time launched u dont have to keep redoing settings
 
-youtube
+youtube showcase of gui's
 https://www.youtube.com/watch?v=zyQBRdkxCOA
 
 join telegram page https://t.me/petsim99scripts
