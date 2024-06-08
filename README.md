@@ -7,6 +7,8 @@ run and install injector then run the script once loaded
 into main account as u will need alt accounts aswellif u want
 for mailing items
 
+Now updated for new Petsim99 update Hacker Matrix
+farm hacker keys to open chest for huges
 Auto farms diamonds,coins,potions,
 auto dig auto fish,
 autopop balloons,
