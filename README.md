@@ -1,4 +1,15 @@
 # pet-simulator-99-script 2024
+
+copy this script and paste into injector this is an all in 1
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/952b57e54501286b2439c1ec.lua'))()
+
+added TITANIC DUPING TO MAIL BOX , abit same as before but much different only works on titanics not huges
+now you can dupe as many as you like but please note its 1 dupe per titanic.
+
+auto dupe hacker chest enchantment book x 1
+auto plant seeds easy 100million diamonds daily for world 1
+
 To run script you need an injector
 vega,delta,fluxus,pr arceous x is best https://spdmteam.com/
 
