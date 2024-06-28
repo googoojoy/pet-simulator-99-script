@@ -1,5 +1,10 @@
 # pet-simulator-99-script 2024
 
+
+New script updated for good vs evil 
+
+updated for latest update good vs evil >>> loadstring(game:HttpGet('https://rentry.co/7tkytf5t/raw',true))()
+
 copy this script and paste into injector this is an all in 1
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/952b57e54501286b2439c1ec.lua'))()
