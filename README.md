@@ -1,5 +1,10 @@
 # pet-simulator-99-script 2024
-
+nOW UPDATED FOR NEW TILE EVENT
+Auto best tile for huges 1 in 20
+auto hatch anywhere on board
+auto upgrade ith new tickets untill all slots filled
+auto sell upgraded now any where.
+updated for new minigames as of 13/07/2024
 
 New script updated for good vs evil 
 
