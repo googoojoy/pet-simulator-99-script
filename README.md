@@ -1,6 +1,8 @@
 # pet-simulator-99-script 2024
-nOW UPDATED FOR NEW TILE EVENT
-Auto best tile for huges 1 in 20
+updated to spongebob event , duplicate spongebob titanic
+only works on titanics
+auto tp to chest in dino land
+auto use dino for 100x then auto run open eggs
 auto hatch anywhere on board
 auto upgrade ith new tickets untill all slots filled
 auto sell upgraded now any where.
@@ -8,7 +10,7 @@ updated for new minigames as of 13/07/2024
 
 New script updated for good vs evil 
 
-updated for latest update good vs evil >>> loadstring(game:HttpGet('https://rentry.co/7tkytf5t/raw',true))()
+updated for latest update dino and spongebob squarepants event >>> loadstring(game:HttpGet('https://rentry.co/7tkytf5t/raw',true))()
 
 copy this script and paste into injector this is an all in 1
 
