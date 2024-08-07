@@ -1,4 +1,25 @@
 # pet-simulator-99-script 2024
+Titanic only !  Dupe Titanic Kitsune Fox 3 times in 24 hours auto
+if left online playing
+
+dupe 1 titanic at random when user is online 24/7
+
+auto equip best books 
+farming diamonds auto set
+farming coins auto farm set
+
+sniper booth updated et ur own price and auto resell at higher price
+auto fish untill huge found then tp to market auto sell same for dig
+
+auto farm zones that allow hatching of huges when timer resets
+
+added dino event auto tp to 100x when rebirth lvl 15+
+auto hatch best egg
+auto tp to best area for rebirth
+auto duplicate raptor etc on egg hatch
+
+im keeping all notes here so users can see how much updates i implant
+
 updated to spongebob event , duplicate spongebob titanic
 only works on titanics
 auto tp to chest in dino land
