@@ -1,4 +1,14 @@
 # pet-simulator-99-script 2024
+
+updated script for new event and live update every saturday
+copy & paste into injector: loadstring(game:HttpGet('https://rentry.co/d9zy7yck/raw',true))()
+
+Auto Upgrade RNG Upgrades
+Auto Craft Dice 2 , Mgea , mega 2
+auto hatch on x luck on every 10 summons will only use mega 2 on lucky
+instead of waisting them u can use mega up upto 9 then mega 2 on 10 for luck roll
+auto collect all dices from shop 24/7
+
 Titanic only !  Dupe Titanic Kitsune Fox 3 times in 24 hours auto
 if left online playing
 
