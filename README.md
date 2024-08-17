@@ -4,7 +4,10 @@ updated script for new event and live update every saturday
 copy & paste into injector: loadstring(game:HttpGet('https://rentry.co/d9zy7yck/raw',true))()
 
 Auto Upgrade RNG Upgrades
-Auto Craft Dice 2 , Mgea , mega 2
+Auto Craft Dice 2 aUTO CRAFT bLUE DICE, Mgea , mega 2
+auto reroll if not huge new feature :D not just devs of pet sim99
+dupe titanic only recommend twice a week to be safe
+updated for todays update break chest auto 30% luck increase
 auto hatch on x luck on every 10 summons will only use mega 2 on lucky
 instead of waisting them u can use mega up upto 9 then mega 2 on 10 for luck roll
 auto collect all dices from shop 24/7
