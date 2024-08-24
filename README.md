@@ -1,4 +1,16 @@
 # pet-simulator-99-script 2024
+new update 24/08/2024
+Kawaii world update
+auto farm eggs in tokyo alleys
+auto farm and complete new levels
+dupe new potion to level up to 99
+auto enchnat upgrade
+auto convert potions to 11
+auto comvert enchants
+auto dupe new titanic x5 limit a week
+auto dupe new huges only
+
+
 
 updated script for new event and live update every saturday
 copy & paste into injector: loadstring(game:HttpGet('https://rentry.co/d9zy7yck/raw',true))()
