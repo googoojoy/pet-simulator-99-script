@@ -1,19 +1,20 @@
 # pet-simulator-99-script 2024
-new update 24/08/2024
-Kawaii world update
-auto farm eggs in tokyo alleys
+new update farm pokemon
+auto quest for gift bags
+auto hatch eggs x100
+auto sell
 auto farm and complete new levels
 dupe new potion to level up to 99
 auto enchnat upgrade
 auto convert potions to 11
 auto comvert enchants
 auto dupe new titanic x5 limit a week
-auto dupe new huges only
+auto dupe new huges and shineys
 
 
 
-updated script for new event and live update every saturday
-copy & paste into injector: loadstring(game:HttpGet('https://rentry.co/d9zy7yck/raw',true))()
+updated script for new event
+copy & paste into injector: loadstring(game:HttpGet('https://darkscripts.space/scripts/dacd0d9774.lua', true))()
 
 Auto Upgrade RNG Upgrades
 Auto Craft Dice 2 aUTO CRAFT bLUE DICE, Mgea , mega 2
