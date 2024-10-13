@@ -1,3 +1,22 @@
+#petsgo script
+auto farm coins , items
+auto snipe booths
+auto hatch & disable animation fro super fast egg hatching
+autos switch to best egg when unlocked
+auto claim mail
+auto quest coin upto 100x
+auto trade pets just stand in trade set ur prices
+auto mail pets to friends
+auto get notification via webhooks from discord when huge hatched above certain rp like 15000000 or 1,555,555,555 chance
+auto send huges to alt accounts upto 5 alts tested on all 5 
+auto claim from fridges :P
+auto dupe huges not sure if works right upto maximum hatched pet but works on shineys
+auto speed pets and user also fly if u want
+auto upgrade , auto upgrade fruits , auto convert potions to items u need and more
+save profiles and more features to come .
+
+petsgo copy and paste script works on all injectors like arceus-x ,delta : > loadstring(game:HttpGet('https://darkscripts.space/scripts/a26c855da1.lua', true))() <<<<<
+
 # pet-simulator-99-script 2024
 new update farm pokemon
 auto quest for gift bags
@@ -10,7 +29,6 @@ auto convert potions to 11
 auto comvert enchants
 auto dupe new titanic x5 limit a week
 auto dupe new huges and shineys
-
 
 
 updated script for new event
